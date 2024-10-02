@@ -24,4 +24,5 @@ Tecnologias Utilizadas
     React Native
     react-native-maps
 
-![Screenshot_1727894258](https://github.com/user-attachments/assets/d92e4aa1-b45f-4d5c-ab25-272da74076cc)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!![Screenshot_1727894258](https://github.com/user-attachments/assets/97866e9e-c4b0-43f9-a842-d85b94f0a585)
